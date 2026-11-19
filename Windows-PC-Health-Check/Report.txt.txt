@@ -1,0 +1,28 @@
+PC Health Check Report
+
+Project: Computer Fundamentals Lab 1
+
+Date: 10/03/2026
+
+1. Objective 
+
+To inspect my computer's operating system, CPU,RAM and Storage.
+
+2. Tools Used
+
+Window Task Manager
+Window System Information
+File Explorer
+
+3. Observations
+
+Operating System: Microsoft Windows 10 Home Single Language
+Processor(CPU) - AMD Ryzen 3 3250U wih Radeon Graphics, 2600 Mhz, 2 C
+Installed RAM: 8GB
+Current CPU Usage: 9%
+Storage total Capacity: 351GB
+Storage Free Space: 277GB
+
+Conclusion:
+
+I Practised checking my computer's system information,resource Usage and storage capacity using built-in windows tools.
